@@ -18,9 +18,9 @@ If you feel more comfortable, you can pick another Node JS framework and show us
 Try to show us all the skills you have, the more you do and care about the code, the more we get impressed. That's your **CHANCE**.
 
 ### Mobile Layout
-The Mobile Layout can be found here: https://shorturl.ae/NTyff
+The Mobile Layout can be found here: [Click here to open](https://www.figma.com/proto/dyFh21QocdwZXOEbQLO47e/Untitled?node-id=2%3A2&starting-point-node-id=2%3A2)
 ### Desktop Layout
-The Desktop Layout can be found here: https://shorturl.ae/xEIEo
+The Desktop Layout can be found here: [Click here to open](https://www.figma.com/proto/YQW8HWNKcLOJueJvTOdBia/Untitled?node-id=2%3A2&starting-point-node-id=2%3A2)
 
 ### Backend
 Repository: 
